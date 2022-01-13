@@ -21,7 +21,9 @@ form>div {
     color:#f00;
 }
 
-input:required {
+
+
+form.main-form input:required {
       border: 1px solid red;
 }
 
